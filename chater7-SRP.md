@@ -1,4 +1,4 @@
-<file name=0 path=clean-architecture – chater7-SRP.mc — 편집기 1># 7장 SRP: 단일 책임 원칙
+# 7장 SRP: 단일 책임 원칙
 
 SRP는 SOLID 중 가장 잘못 전달된 원칙
 - SRP 의미: 단일 모듈은 변경 이유가 오직 하나여야함, 하나의 모듈은 오직 하나의 사용자 또는 이해관계자에 대해서만 책임
